@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TilingEnvironment", "TilingEnvironment.csproj", "{A51C9E45-FE5D-42CE-847D-5A90A11E578D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51C9E45-FE5D-42CE-847D-5A90A11E578D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51C9E45-FE5D-42CE-847D-5A90A11E578D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51C9E45-FE5D-42CE-847D-5A90A11E578D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51C9E45-FE5D-42CE-847D-5A90A11E578D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D535BC24-FC31-4657-A13E-AA5DE7DB0E55}
+	EndGlobalSection
+EndGlobal
