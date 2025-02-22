@@ -12,6 +12,7 @@ var states = new Dictionary<GameState, IGameState>
     { GameState.Menu, new Menu() },
     { GameState.UnrestrictedPlayerMovement, new UnrestrictedPlayermovement() },
     { GameState.TiledPlayerMovement, new TiledPlayerMovement() },
+    { GameState.TiledPlayerMovementWithMovingEnvironment,new TiledPlayerMovementWithMovingEnvironment() }
 };
 
 var exit = false;

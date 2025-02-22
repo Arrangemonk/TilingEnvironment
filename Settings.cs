@@ -15,12 +15,15 @@ namespace TilingEnvironment
         Menu,
         UnrestrictedPlayerMovement,
         TiledPlayerMovement,
+        TiledPlayerMovementWithMovingEnvironment,
+
     };
     internal class Settings
     {
         public static int Width { get; } = 800;
         public static int Height { get; } = 600;
         public static int TargetFPS { get; } = 60;
+        public static int TargetSpeed { get; } = 5;
 
         public static int FieldSize = 400;
         public static GameState RequestedState { get; set; }
